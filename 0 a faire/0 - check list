@@ -1,2 +1,7 @@
 - modifier tous les foot pour que le fish.png -> saumonsvg.svg
 - modifier l'icone princiapale "hame" pour l'avoir en svg
+- faire une étude de cas sur natsume soseki pour y ajouter les pages du romans
+
+git add .
+git commit -m "commit"
+git push
