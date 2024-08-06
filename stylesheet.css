@@ -59,3 +59,9 @@ body {
 .overlay2 {
   border-radius: 40%;
 }
+
+
+details[open] {
+  padding: 0.1em;
+  padding-bottom: 3%;
+}
