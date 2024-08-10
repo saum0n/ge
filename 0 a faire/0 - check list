@@ -2,6 +2,11 @@
 - modifier l'icone princiapale "hame" pour l'avoir en svg
 - faire une étude de cas sur natsume soseki pour y ajouter les pages du romans
 
+Ajouts de notices :
+- Onglet esthétisme/charte graphique
+-  Log mensuels 
+- Portfolio
+
 git add .
 git commit -m "commit"
 git push
