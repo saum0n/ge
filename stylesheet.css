@@ -1,7 +1,13 @@
 html {
     font-family: avenir medium, sans-serif;
     padding-left: 1%;
+    font-size: 200%;
 }
+
+h3 {
+  text-decoration: underline;
+}
+
 
 ::-moz-selection { /* Code for Firefox */
 
