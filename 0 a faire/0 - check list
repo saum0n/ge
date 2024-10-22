@@ -1,12 +1,34 @@
-- modifier tous les foot pour que le fish.png -> saumonsvg.svg
-- modifier l'icone princiapale "hame" pour l'avoir en svg
-- faire une étude de cas sur natsume soseki pour y ajouter les pages du romans
+git add .
+git commit -m "Commit message"
+git push origin main
 
-Ajouts de notices :
-- Onglet esthétisme/charte graphique
--  Log mensuels 
-- Portfolio
+
+
+Pour passer d'un repository à un autre :
+git remote set-url origin https://github.com/saum0n/ge.git
+
+pour vérifier :
+git remote -v
+
+Si ne fonctionne pas :
 
 git add .
 git commit -m "commit"
 git push
+
+
+git remote add origin https://github.com/saum0n/ge.git
+git branch -M main
+git push -u origin main
+
+
+git add .
+git commit -m "commit"
+git push
+
+
+
+git branch -m main masterrrr
+git fetch origin
+git branch -u origin/masterrrr masterrrr
+git remote set-head origin -a
