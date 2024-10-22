@@ -2,7 +2,8 @@ git add .
 git commit -m "Commit message"
 git push origin HEAD:main
 
-
+<--->
+<--->
 
 Pour passer d'un repository à un autre :
 git remote set-url origin https://github.com/saum0n/ge.git
