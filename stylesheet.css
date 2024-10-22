@@ -69,6 +69,9 @@ body {
   border-radius: 40%;
 }
 
+.overlay3 {
+  border-radius: 50px;
+}
 
 details[open] {
   padding: 0.1em;
